@@ -1,0 +1,3 @@
+[submodule "drools-training"]
+	path = drools-training
+	url = https://github.com/godarkthrt/drools-training.git
